@@ -1,6 +1,6 @@
 CampusPulse ⚡ — Live Activity Map of VIT-AP University
 
-**See what's happening on campus right now — on a real-time 3D map of VIT-AP
+See what's happening on campus right now — on a real-time 3D map of VIT-AP
 
 🔗 **Live demo:** https://anav-awasthi.github.io/campuspulse/
 (works on desktop and mobile — no install, no login)
